@@ -1,0 +1,9 @@
+.DS_store
+**/.ipynb_checkpoints
+data/*
+checkpoints/*
+**/*.zip
+**/__pycache__
+**/*.pkl
+**/*.txt
+
